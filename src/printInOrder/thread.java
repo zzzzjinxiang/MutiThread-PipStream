@@ -53,7 +53,7 @@ public class thread {
 
     }
 
-    private class PrintRunnable implements Runnable {
+    private class PrintRunnable extends Thread {
 
         private LetterPrinter letterPrinter = null;
 

@@ -9,7 +9,7 @@ public class sleepExample extends Thread {
 
     @Override
     public void run() {
-        while (true) {
+        while (currentCount < 101) {
             switch (currentCount % 3) {
                 case 0:
                     if ("A".equals(getName())) {
@@ -37,7 +37,7 @@ public class sleepExample extends Thread {
     }
 
     private void print() {
-        System.out.print(Thread.currentThread().getName() + currentCount +" ");
+        System.out.println("Thread" + Thread.currentThread().getName() + currentCount +" ");
         /*if ("C".equals(getName())) {
             System.out.println();
         }*/
