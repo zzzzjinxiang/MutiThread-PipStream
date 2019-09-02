@@ -1,5 +1,6 @@
 package ProductAndCusumer;
 
+import java.util.ArrayList;
 import java.util.concurrent.BlockingQueue;
 
 public class BlockingProductor implements Runnable {

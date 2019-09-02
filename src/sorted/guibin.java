@@ -12,19 +12,22 @@ public class guibin {
 
 
     public static void merge(int[] nums, int s, int m, int e) {
-        int[] tmp = new int[e-s];
+        int[] tmp = new int[e-s+1];
         int k = 0;
-        int mid = m;
-        if(nums[s] < nums[m])
-            tmp[k++] = nums[s++];
-        if(nums[s] > nums[m])
-            tmp[k++] = nums[m++];
-        while(s < mid)
-            tmp[k++] = nums[s++];
-        while(m < e)
-            tmp[k++] = nums[m++];
-        for(k = 0; k < e; k++) {
-            nums[s++] = tmp[k];
+        int start = s;
+        int mid = m + 1;
+        while(start <= m && mid <= e) {
+            if (nums[start] <= nums[mid])
+                tmp[k++] = nums[start++];
+            else
+                tmp[k++] = nums[mid++];
+        }
+        while(start <= m)
+            tmp[k++] = nums[start++];
+        while(mid <= e)
+            tmp[k++] = nums[mid++];
+        for(int i = 0; i < k; i++) {
+            nums[s + i] = tmp[i];
         }
     }
 
