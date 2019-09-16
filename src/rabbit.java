@@ -45,12 +45,40 @@ public class rabbit {
         System.out.println(res);
     }
 
+    public static int happyMan2(String str) {
+        String users = str + str + str;
+        int[] nums = new int[users.length()];
+        int max = 0;
+        int index = 0;
+        for(int i = str.length(); i < users.length() - str.length(); i++) {
+            if(users.charAt(i) == 'g')
+                continue;
+            else {
+                int j = i - 1;
+                while(j >= 0 && users.charAt(j) == 'g' && i - j >str.length()) {
+                    nums[i]++;
+                    j--;
+                }
+                j = i + 1;
+                while(j < users.length() && users.charAt(j) == 'g' && j - i < str.length()) {
+                    nums[i]++;
+                    j++;
+                }
+            }
+            if(nums[i] > max) {
+                max = nums[i];
+                index = i;
+            }
+        }
+        return index % str.length();
+    }
+
     static int happyMan(String str) {
         String users = str + str + str;
         int[] nums = new int[users.length()];
         int max = 0;
         int index = -1;
-        for(int i = str.length(); i < users.length() - str.length(); i ++) {
+        for(int i = str.length(); i < users.length() - str.length(); i++) {
             char c = users.charAt(i);
             if(c == 'g') continue;
             else {
