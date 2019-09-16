@@ -1,11 +1,11 @@
-package tencentInter;
+package juc;
 
 import java.util.concurrent.*;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.StampedLock;
 
-public class tencent {
+public class cycBarrier {
 
     private Lock lock = new ReentrantLock();
     private static StampedLock rwlock = new StampedLock();

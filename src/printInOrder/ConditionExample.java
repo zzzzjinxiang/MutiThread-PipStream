@@ -19,7 +19,7 @@ public class ConditionExample {
     private char currentThreadName = 'A';
 
     private static final Logger logger = Logger
-            .getLogger("my.thread.test.OrderPrintTest");
+            .getLogger("my.thread.leetcode.jianzhi.OrderPrintTest");
     private int cnt = 0;
 
     public static void main(String[] args) {

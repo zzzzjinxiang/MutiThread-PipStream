@@ -1,4 +1,4 @@
-package xmbishi;
+package mianshi.xmbishi;
 
 import java.util.Stack;
 

@@ -1,6 +1,8 @@
+package mianshi;
+
 import java.util.*;
 
-public class testss {
+public class zte {
 
     public static void main(String[] args) {
         int num = 7;

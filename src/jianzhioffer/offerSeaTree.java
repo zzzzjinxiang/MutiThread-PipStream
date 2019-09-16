@@ -1,3 +1,5 @@
+package jianzhioffer;
+
 import java.util.ArrayList;
 import java.util.Random;
 

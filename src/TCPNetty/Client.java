@@ -42,7 +42,7 @@ public class Client {
 
         @Override
         public void run() {
-            String reqMessage = "TCP test full";
+            String reqMessage = "TCP leetcode.jianzhi full";
             for(int i =0;i<100;i++){
                 sendPacket(reqMessage);
             }

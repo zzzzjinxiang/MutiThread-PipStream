@@ -1,9 +1,10 @@
+package leetcode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class t {
+public class lc15 {
 
     public static void main(String[] args) {
         int[] ex1 = {6,44,36,87,53,46,78,5,13};

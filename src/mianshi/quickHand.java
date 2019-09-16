@@ -1,3 +1,5 @@
+package mianshi;
+
 import java.util.Stack;
 
 public class quickHand {

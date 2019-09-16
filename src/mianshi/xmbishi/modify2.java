@@ -1,4 +1,4 @@
-package xmbishi;
+package mianshi.xmbishi;
 
 public class modify2 {
     public void ver(String[] in) {

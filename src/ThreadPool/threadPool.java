@@ -1,13 +1,13 @@
-package damo;
+package ThreadPool;
 
-public class damon1 implements Runnable {
+public class threadPool implements Runnable {
     private Integer id;
 
     public void setId(Integer id) {
         this.id = id;
     }
 
-    public damon1(Integer id){
+    public threadPool(Integer id){
         this.id=id;
     }
 
@@ -17,7 +17,7 @@ public class damon1 implements Runnable {
     @Override
     public void run() {
         while(sum<100) {
-            synchronized (damon1.class) {
+            synchronized (threadPool.class) {
                 try {
                     if (sum % 3 == id) {
                         System.out.println(Thread.currentThread().getName() + ":" + sum +" "+id+" "+Thread.currentThread().getId());

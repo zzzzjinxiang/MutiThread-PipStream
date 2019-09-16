@@ -1,6 +1,8 @@
+package mianshi;
+
 import java.util.Scanner;
 
-public class rabbit {
+public class aliWork {
     static String getIndexAndLongest(String users, int n) {
         int res1 = happyMan(users);
         int res2 = maxGroup(users, n);

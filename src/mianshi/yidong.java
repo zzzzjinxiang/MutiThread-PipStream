@@ -1,7 +1,9 @@
+package mianshi;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class f {
+public class yidong {
 
         public static void main(String args[])
         {
