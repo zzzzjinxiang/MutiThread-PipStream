@@ -1,4 +1,4 @@
-package leetcode;
+package jianzhioffer;
 
 public class reverseArraysNum {
     public static void main(String[] args) {
