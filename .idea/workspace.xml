@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afd1d620-8feb-426b-a555-3964a08583f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/lc17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mianshi/baidu/minVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mianshi/baidu/returnCom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mianshi/quickHand2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mianshi/tencent/voidDate.java" afterDir="false" />
+    <list default="true" id="afd1d620-8feb-426b-a555-3964a08583f5" name="Default Changelist" comment="make a sort about what i do">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcode97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mianshi/baidu/treePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mianshi/duxiaoman/bitCow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mianshi/duxiaoman/bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mianshi/huawei/minganci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mianshi/huawei/sales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mianshi/huawei/xiaoli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robotPath/damo/damon1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robotPath/damo/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robotPath/printInOrder/thread$PrintRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/robotPath/printInOrder/thread$PrintRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robotPath/t.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inputModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/reverseArraysNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhioffer/reverseArraysNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mianshi/zte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mianshi/zte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/printInOrder/thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printInOrder/thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robotPath/leetcode/lc547.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/robotPath/leetcode/lc547.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robotPath/mianshi/zte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/robotPath/mianshi/zte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/lc547.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/lc547.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,79 +28,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/matrix.java">
+        <entry file="file://$PROJECT_DIR$/src/mianshi/huawei/sales.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/returnCom.java">
+        <entry file="file://$PROJECT_DIR$/src/mianshi/huawei/minganci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="303">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/minVal.java">
+        <entry file="file://$PROJECT_DIR$/src/mianshi/duxiaoman/bitCow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="51" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mianshi/zte.java">
+        <entry file="file://$PROJECT_DIR$/src/mianshi/duxiaoman/bridge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/printInOrder/thread.java">
+        <entry file="file://$PROJECT_DIR$/src/mianshi/huawei/xiaoli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="84" column="46" selection-start-line="84" selection-start-column="46" selection-end-line="84" selection-end-column="46" />
+            <state relative-caret-position="270">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mianshi/tencent/voidDate.java">
+        <entry file="file://$PROJECT_DIR$/src/sorted/guibin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/sorted/quicksort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10380">
-              <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
+            <state relative-caret-position="179">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java">
+        <entry file="file://$PROJECT_DIR$/src/pack01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18390">
-              <caret line="1301" column="32" selection-start-line="1301" selection-start-column="32" selection-end-line="1301" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -127,6 +118,7 @@
       <find>add</find>
       <find>remove</find>
       <find>rehash</find>
+      <find>resize</find>
       <find>put</find>
     </findStrings>
   </component>
@@ -136,19 +128,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/stringStream.java" />
-        <option value="$PROJECT_DIR$/src/version.java" />
-        <option value="$PROJECT_DIR$/src/sortAndSearch.java" />
-        <option value="$PROJECT_DIR$/src/sortRobot.java" />
-        <option value="$PROJECT_DIR$/src/t.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcode120.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/lc93.java" />
-        <option value="$PROJECT_DIR$/src/service.java" />
         <option value="$PROJECT_DIR$/src/f.java" />
         <option value="$PROJECT_DIR$/src/xmbishi/modify2.java" />
         <option value="$PROJECT_DIR$/src/xmbishi/time.java" />
         <option value="$PROJECT_DIR$/src/mianshi/cangku.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/lc547.java" />
         <option value="$PROJECT_DIR$/src/leetcode/lc134.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcode438.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/mapTest.java" />
@@ -181,12 +164,21 @@
         <option value="$PROJECT_DIR$/src/leetcode/lc17.java" />
         <option value="$PROJECT_DIR$/src/leetcode/matrix.java" />
         <option value="$PROJECT_DIR$/src/mianshi/baidu/returnCom.java" />
-        <option value="$PROJECT_DIR$/src/mianshi/baidu/minVal.java" />
         <option value="$PROJECT_DIR$/src/mianshi/tencent/iml.java" />
         <option value="$PROJECT_DIR$/src/mianshi/tencent/jiekou.java" />
         <option value="$PROJECT_DIR$/src/mianshi/tencent/voidDate.java" />
         <option value="$PROJECT_DIR$/src/printInOrder/thread.java" />
         <option value="$PROJECT_DIR$/src/mianshi/zte.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/baidu/minVal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcode97.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/baidu/treePath.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc547.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/huawei/sales.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/huawei/minganci.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/huawei/xiaoli.java" />
+        <option value="$PROJECT_DIR$/src/pack01.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/duxiaoman/bitCow.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/duxiaoman/bridge.java" />
       </list>
     </option>
   </component>
@@ -213,6 +205,19 @@
               <item name="MutiThread-PipStream" type="b2602c69:ProjectViewProjectNode" />
               <item name="MutiThread-PipStream" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MutiThread-PipStream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MutiThread-PipStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MutiThread-PipStream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MutiThread-PipStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
+              <item name="duxiaoman" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,13 +261,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zte">
-    <configuration name="iml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshi.tencent.iml" />
+  <component name="RunManager" selected="Application.bridge">
+    <configuration name="bitCow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mianshi.duxiaoman.bitCow" />
       <module name="robotPath" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mianshi.tencent.*" />
+          <option name="PATTERN" value="mianshi.duxiaoman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshi.baidu.minVal" />
+    <configuration name="bridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mianshi.duxiaoman.bridge" />
       <module name="robotPath" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mianshi.baidu.*" />
+          <option name="PATTERN" value="mianshi.duxiaoman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printInOrder.thread" />
+    <configuration name="minganci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mianshi.huawei.minganci" />
       <module name="robotPath" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="printInOrder.*" />
+          <option name="PATTERN" value="mianshi.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,25 +301,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="voidDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshi.tencent.voidDate" />
+    <configuration name="pack01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pack01" />
       <module name="robotPath" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mianshi.tencent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshi.zte" />
+    <configuration name="xiaoli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mianshi.huawei.xiaoli" />
       <module name="robotPath" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mianshi.*" />
+          <option name="PATTERN" value="mianshi.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zte" />
-        <item itemvalue="Application.iml" />
-        <item itemvalue="Application.voidDate" />
-        <item itemvalue="Application.thread" />
-        <item itemvalue="Application.minVal" />
+        <item itemvalue="Application.bridge" />
+        <item itemvalue="Application.bitCow" />
+        <item itemvalue="Application.pack01" />
+        <item itemvalue="Application.xiaoli" />
+        <item itemvalue="Application.minganci" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +359,7 @@
       <workItem from="1569033780073" duration="157000" />
       <workItem from="1569033982461" duration="154000" />
       <workItem from="1569034168405" duration="121000" />
-      <workItem from="1569034322121" duration="4282000" />
+      <workItem from="1569034322121" duration="25231000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1567399481004</created>
@@ -387,10 +386,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150884000" />
+    <option name="totallyTimeSpent" value="171833000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="546" y="185" width="348" height="474" id="Project" order="0" visible="true" weight="0.26680973" />
@@ -402,15 +401,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33002833" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47672778" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39691445" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4670407" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32722145" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32398316" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -601,13 +600,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/lc547.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/lc547.java</url>
-          <line>22</line>
+          <line>26</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
@@ -629,6 +622,54 @@
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc547.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc547.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mianshi/huawei/sales.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mianshi/huawei/xiaoli.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pack01.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pack01.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pack01.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mianshi/duxiaoman/bridge.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -639,135 +680,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sorted/quicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="1909" column="23" selection-start-line="1909" selection-start-column="23" selection-end-line="1909" selection-end-column="23" />
-          <folding>
-            <element signature="e#88446#88447#0" expanded="true" />
-            <element signature="e#88503#88504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="1477" column="19" selection-start-line="1477" selection-start-column="19" selection-end-line="1477" selection-end-column="19" />
-          <folding>
-            <element signature="e#24839#24840#0" expanded="true" />
-            <element signature="e#24885#24886#0" expanded="true" />
-            <element signature="e#58618#58619#0" expanded="true" />
-            <element signature="e#58662#58663#0" expanded="true" />
-            <element signature="e#94629#94630#0" expanded="true" />
-            <element signature="e#94667#94668#0" expanded="true" />
-            <element signature="e#132795#132796#0" expanded="true" />
-            <element signature="e#132852#132853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode120.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi/xmbishi/modify2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi.java" />
-    <entry file="file://$PROJECT_DIR$/src/mianshi/xmbishi/time.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi/cangku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="814" selection-start-line="814" selection-end-line="814" />
-          <folding>
-            <element signature="e#24151#24152#0" expanded="true" />
-            <element signature="e#24191#24192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/lc547.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/lc93.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="133" column="43" selection-start-line="133" selection-start-column="43" selection-end-line="133" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode438.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/mapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhioffer/offerSeaTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -968,13 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="390" column="31" selection-start-line="390" selection-start-column="26" selection-end-line="390" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mianshi/tencent/iml.java" />
     <entry file="file://$PROJECT_DIR$/src/mianshi/tencent/jiekou.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode/matrix.java">
@@ -987,27 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/returnCom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/minVal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10380">
-          <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18390">
@@ -1015,10 +899,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi/tencent/voidDate.java">
+    <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/minVal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="-81">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/returnCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" selection-start-line="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.management/com/sun/jmx/remote/internal/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="314" column="6" selection-start-line="314" selection-start-column="6" selection-end-line="314" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="629" column="65" selection-start-line="629" selection-start-column="59" selection-end-line="629" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode97.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-end-line="15" />
+          <folding>
+            <marker date="1569251243822" expanded="true" signature="53:315" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/baidu/treePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/zte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1633">
+          <caret line="2354" column="22" selection-start-line="2354" selection-start-column="22" selection-end-line="2354" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1029,13 +978,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mianshi/zte.java">
+    <entry file="file://$PROJECT_DIR$/src/mianshi/tencent/voidDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="59">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc547.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/huawei/sales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1206" column="48" selection-start-line="1206" selection-start-column="48" selection-end-line="1206" selection-end-column="48" />
+          <folding>
+            <element signature="e#24839#24840#0" expanded="true" />
+            <element signature="e#24885#24886#0" expanded="true" />
+            <element signature="e#58618#58619#0" expanded="true" />
+            <element signature="e#58662#58663#0" expanded="true" />
+            <element signature="e#94629#94630#0" expanded="true" />
+            <element signature="e#94667#94668#0" expanded="true" />
+            <element signature="e#132795#132796#0" expanded="true" />
+            <element signature="e#132852#132853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/huawei/xiaoli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorted/guibin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorted/quicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="843" selection-start-line="843" selection-end-line="843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pack01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/huawei/minganci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/duxiaoman/bitCow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/duxiaoman/bridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -1,20 +1,24 @@
 package leetcode;
 
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Set;
+
+
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class lc547 {
 
     public static void main(String[] args) {
-        int[][] M = {{1,1,0,1},{1,1,0,1},{0,1,1,0},{1,0,0,1}};
-        System.out.println(solutionBFS(M));
+        int[][] M = {{1,1,0,1},{0,1,0,1},{0,1,1,0},{1,0,0,1}};
+        int n = 10*10*10*10*10*10*10*10*10-1;
+        System.out.println((long)(n*(n-1)-1));
+//        System.out.println(solutionDFS(M));
         System.out.println();
     }
 
     public static int solutionBFS(int[][] M) {
         LinkedList<Integer> queue = new LinkedList<>();
         Set<Integer> set = new HashSet<>();
+        ConcurrentHashMap<Integer,Integer> map = new ConcurrentHashMap<>();
         int res = 0;
         for(int i = 0; i < M.length; i++) {
             if(!set.contains(i)) {
