@@ -17,19 +17,23 @@ public class minganci {
         next[0] = -1;
         int i = 0;
         int j = -1;
-        for(i = 0; i < par.length();) {
-            if(j == -1 || tar.charAt(j) == par.charAt(i)) {
-                i++;
-                j++;
-                next[i] = j;
-            } else j = next[j];
-        }
+//        for(i = 0; i < par.length();) {
+//            if(j == -1 || tar.charAt(j) == tar.charAt(i)) {
+//                i++;
+//                j++;
+//                next[i] = j;
+//            } else j = next[j];
+//        }
 
+        System.out.println();
         for(i = 0, j = 0; i < tar.length() && j < par.length();) {
             if(j == -1 || tar.charAt(i) == par.charAt(j)) {
                 i++;
                 j++;
-            } else j = next[j];
+            } else {
+                i++;
+                j=0;
+            }
         }
 
         int pos = 0;
