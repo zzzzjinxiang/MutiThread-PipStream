@@ -6,7 +6,6 @@ import java.io.PipedOutputStream;
 @SuppressWarnings("all")
 public class Sender extends Thread {
     private PipedOutputStream out = new PipedOutputStream();
-
     public PipedOutputStream getInstance(){
         return out;
     }
